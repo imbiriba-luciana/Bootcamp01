@@ -1,2 +1,6 @@
-# Bootcamp01
-Bootcamp for Beginners - Code Institute
+## Bootcamp 
+Bootcamp for Beginners - Code Institute.
+
+### Files: 
+L stands for Lesson
+c stande for Challenge.
